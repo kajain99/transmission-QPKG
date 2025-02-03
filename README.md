@@ -27,7 +27,7 @@ Since this QPKG is unsigned, you'll need to allow the installation of unsigned a
 
 ### Step 2: Install the QPKG
 
-1. Download the Transmission QPKG from this repository 
+1. Download the Transmission QPKG from this repository: [Transmission QPKG 4.0.6](https://github.com/kajain99/transmission-QPKG/blob/main/transmission_4.0.6.qpkg)
 2. Open the App Center on your QNAP device and click **Install Manually**.
 3. Select the downloaded QPKG file and follow the on-screen instructions to complete the installation.
 
